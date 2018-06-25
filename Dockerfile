@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/pause-amd64:3.1
+FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
