@@ -1,1 +1,1 @@
-FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3
