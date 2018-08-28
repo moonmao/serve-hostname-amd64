@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-state-metrics:v1.3.1
+FROM gcr.io/kubernetes-e2e-test-images/serve-hostname-amd64:1.1
